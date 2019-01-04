@@ -36,8 +36,10 @@
     "@babel/plugin-transform-react-jsx-source": "^7.2.0",
     "@babel/polyfill": "^7.2.5",
     "@babel/register": "^7.0.0",
+    "bootstrap": "^4.2.1",
     "electron": "^4.0.0",
     "react": "^16.7.0",
+    "react-bootstrap": "1.0.0-beta.3",
     "react-dom": "^16.7.0"
   }
 }
